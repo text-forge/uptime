@@ -58,17 +58,19 @@
     "url": "https://raw.githubusercontent.com/text-forge/mp/refs/heads/main/packages.json",
     "icon": "https://icons.duckduckgo.com/ip3/raw.githubusercontent.com.ico",
     "slug": "marketplace-api-packages-information",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 1354,
-    "timeWeek": 363,
-    "timeMonth": 177,
-    "timeYear": 133,
-    "dailyMinutesDown": {}
+    "time": 152,
+    "timeDay": 2188,
+    "timeWeek": 696,
+    "timeMonth": 268,
+    "timeYear": 152,
+    "dailyMinutesDown": {
+      "2026-07-08": 0
+    }
   }
 ]
